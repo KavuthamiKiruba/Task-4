@@ -1,0 +1,29 @@
+li a{
+  background-color: pink;
+  text-align: center;
+  padding:16px;
+  display:block;
+  
+}
+.about{
+  padding-top: 40px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .database{
+    padding-top: 40px;
+    font-size: 20px;
+ }
+
+ .Profile{
+  padding-top: 40px;
+ }
+
+ .service{
+  padding-top: 40px;
+  
+ }
+
+ .card-text{
+  text-align: center;
+ }
